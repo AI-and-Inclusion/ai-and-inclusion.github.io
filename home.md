@@ -55,7 +55,7 @@ This workshop aims to invite both academic and industrial experts in the area of
 - Discuss the accessibility gaps and barriers
 - How AI could enable the field of Social Web to be more accessible and inclusive.
 
-## Call For Papers (CfPs) {#CfPs}
+## Call for Papers (CfPs) {#CfPs}
 
 Building on our theme for 2021, we especially welcome contributions that:
 
@@ -67,7 +67,7 @@ Building on our theme for 2021, we especially welcome contributions that:
 - May 17, 2021 - Proceedings due
 - June 21-22, 2021 - Workshops and Tutorials.
 
-_All submission deadlines are midnight in the Anywhere on Earth (AoE) time zone._
+_\*All submission deadlines are midnight in the Anywhere on Earth (AoE) time zone._
 
 #### Format of the Submissions
 
@@ -87,7 +87,7 @@ For authors who wish to opt-out of publication proceedings, this option will be 
 
 ## Schedule {#schedule}
 
-The workshop is proposed to be scheduled within half day either on 21 June or 22 June, 2021
+The workshop is scheduled within half day either on 21 June or 22 June, 2021
 
 The schedule includes:
 
