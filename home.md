@@ -53,15 +53,15 @@ This workshop aims to invite both academic and industrial experts in the area of
 
 ## Call For Papers {#CfPs}
 
-### Important Dates
+#### Important Dates
 
-⋅⋅\* April 9, 2021 Notification
-⋅⋅\* May 10, 2021 Camera-ready versions due
-⋅⋅\* June 21-22 Conference dates
+- April 23, 2021 - Workshop paper submission deadline
+- May 17, 2021 - Proceedings due
+- June 21-22, 2021 - Workshops and Tutorials.
 
-**_All submission deadlines are midnight in the Anywhere on Earth (AoE) time zone._**
+_All submission deadlines are midnight in the Anywhere on Earth (AoE) time zone._
 
-### Format of the Submissions
+#### Format of the Submissions
 
 Please upload your submissions via TBC
 
@@ -83,36 +83,36 @@ The workshop is proposed to be scheduled within half day either on 21 June or 22
 
 The schedule includes:
 
-⋅⋅\* Keynote speaker (30 mins)
+- Keynote speaker (30 mins)
 
-⋅⋅\* Paper Section (60 mins – 90 mins): accepted 4 - 6 papers and 15 mins for each paper
+- Paper Section (60 mins – 90 mins): accepted 4 - 6 papers and 15 mins for each paper
 
-⋅⋅\* Short break (15 mins)
+- Short break (15 mins)
 
-⋅⋅\* Panel Discussion (45 mins)
+- Panel Discussion (45 mins)
 
-⋅⋅\* The panel session
+- The panel session
 
-The panel session will include invited experts in the field of digital accessibility and AI technologies. Each member of digital accessibility experts will pose accessibility gaps or barriers faced by those people with disabilities during or after pandemic and each member of AI experts will discuss the possible solutions or strategies that can overcome these gaps with leveraging the power of AI technologies.
+_The panel session will include invited experts in the field of digital accessibility and AI technologies. Each member of digital accessibility experts will pose accessibility gaps or barriers faced by those people with disabilities during or after pandemic and each member of AI experts will discuss the possible solutions or strategies that can overcome these gaps with leveraging the power of AI technologies._
 
 ## Speakers {#speakers}
 
-### Keynote Speaker
+#### Keynote Speaker
 
 TBC
 
-### Panel
+#### Panel
 
-{% include feature_row %}
+TBC
 
 ## Organization {#organization}
 
-### Organizing Committee
+#### Organizing Committee
 
 - Professor Mike Wald, Univeristy of Southampton, mw[AT]ecs.soton.ac.uk
 - Dr Chaohai Ding, Univeristy of Southampton, c.ding[AT]ecs.soton.ac.uk
 - E.A. Draffan, Univeristy of Southamptonm, ead[AT]ecs.soton.ac.uk
 
-### Program Committee
+#### Program Committee
 
 TBC
