@@ -6,3 +6,12 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.pagination li a.current,
+.pagination li a.current.disabled {
+  background: #312450 !important;
+}
+
+.greedy-nav .visible-links a:before {
+  background: #312450 !important;
+}
