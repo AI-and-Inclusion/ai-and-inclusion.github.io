@@ -20,21 +20,21 @@ excerpt: >
   June 21-22, 2021. Online.
 
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/bio-photo.jpg
     alt: "customizable"
     title: "Speaker One"
     excerpt: "speaker"
     url: "/"
     btn_class: "btn--primary"
     btn_label: "Linkedin Link"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: /assets/images/bio-photo.jpg
     alt: "Speaker Two"
     title: "Speaker Two"
     excerpt: "speaker"
     url: "/"
     btn_class: "btn--primary"
     btn_label: "Link"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: /assets/images/bio-photo.jpg
     alt: "Speaker Three"
     title: "Speaker Three"
     excerpt: "Speaker"
