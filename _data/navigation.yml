@@ -1,11 +1,18 @@
 main:
   - title: "Home"
     url: /
-  # - title: "Posts"
-  #   url: /posts/
-  # - title: "Categories"
-  #   url: /categories/
-  # - title: "Tags"
-  #   url: /tags/
-  - title: "About"
-    url: /#about
+
+  - title: "Overview"
+    url: /#overview
+
+  - title: "CfP"
+    url: /#CfP
+
+  - title: "Schedule"
+    url: /#schedule
+
+  - title: "Speakers"
+    url: /#speakers
+
+  - title: "Organization"
+    url: /#organization
