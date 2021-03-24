@@ -49,9 +49,17 @@ COVID-19 pandemic and government restriction have rapidly transformed people’s
 
 With the rapidly transformation of the social actives from offline to online since the pandemic, many people with disabilities have encountered both opportunities and challenges in their daily social life. The power of the AI technologies such as natural language process, speech recognition and text translation, computer vision and deep learning has been used to support for alternative forms of communication for people with disabilities.
 
-This workshop aims to invite both academic and industrial experts in the area of digital accessibility providing their research and views as to a range of issues they perceive as causing barriers for those with disabilities during or after the pandemic. AI experts will also be invited to contribute the research of possible solutions or strategies that could be used to plug the gaps in accessibility. The goal of this workshop includes: understanding how this pandemic has changed the social life for people with disabilities on the Web, discussing the accessibility gaps and barriers, as well as how AI could enable the field of Social Web to be more accessible and inclusive.
+This workshop aims to invite both academic and industrial experts in the area of digital accessibility providing their research and views as to a range of issues they perceive as causing barriers for those with disabilities during or after the pandemic. AI experts will also be invited to contribute the research of possible solutions or strategies that could be used to plug the gaps in accessibility. The goal of this workshop includes:
 
-## Call For Papers {#CfPs}
+- Understand how the pandemic has changed the social life for people with disabilities on the Web
+- Discuss the accessibility gaps and barriers
+- How AI could enable the field of Social Web to be more accessible and inclusive.
+
+## Call For Papers (CfPs) {#CfPs}
+
+Building on our theme for 2021, we especially welcome contributions that:
+
+- Needs a list of topics for CfPs
 
 #### Important Dates
 
