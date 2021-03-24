@@ -48,3 +48,9 @@ With the rapidly transformation of the social actives from offline to online sin
 This workshop aims to invite both academic and industrial experts in the area of digital accessibility providing their research and views as to a range of issues they perceive as causing barriers for those with disabilities during or after the pandemic. AI experts will also be invited to contribute the research of possible solutions or strategies that could be used to plug the gaps in accessibility. The goal of this workshop includes: understanding how this pandemic has changed the social life for people with disabilities on the Web, discussing the accessibility gaps and barriers, as well as how AI could enable the field of Social Web to be more accessible and inclusive.
 
 {% include feature_row %}
+
+## Hello {#about}
+
+Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+
+Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
