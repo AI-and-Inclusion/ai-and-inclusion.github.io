@@ -94,19 +94,12 @@ For authors who wish to opt-out of publication proceedings, this option will be 
 The workshop is scheduled within half day either on 21 June or 22 June, 2020. The schedule includes:
 
 - Welcome (15 mins)
-
 - Keynote speaker (30 mins)
-
 - Paper Session A (45 mins)
-
 - Short break (5 mins)
-
 - Paper Session B (45 mins)
-
 - Long break (15 mins)
-
 - Panel Discussion (45 mins)
-
 - Closing (10 mins)
 
 _The panel session will include invited experts in the field of digital accessibility and AI technologies. Each member of digital accessibility experts will pose accessibility gaps or barriers faced by those people with disabilities during or after pandemic and each member of AI experts will discuss the possible solutions or strategies that can overcome these gaps with leveraging the power of AI technologies._
