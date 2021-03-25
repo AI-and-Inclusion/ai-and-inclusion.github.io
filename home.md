@@ -112,11 +112,11 @@ _The panel session will include invited experts in the field of digital accessib
 
 #### Keynote Speaker
 
-TBC
+TBA
 
 #### Panel
 
-TBC
+TBA
 
 ## Organization {#organization}
 
@@ -128,4 +128,4 @@ TBC
 
 #### Program Committee
 
-TBC
+TBA
