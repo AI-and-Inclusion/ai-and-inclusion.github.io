@@ -59,7 +59,7 @@ This workshop aims to invite both academic and industry experts in the area of d
 
 In this workshop, we especially welcome contributions that:
 
-- Have a broader perspective on the Web Sciecne and AI that could better improve inclusive social life for people with disabilities (i.e., online and offline)
+- Have a broader perspective on the Web Science and AI that could better improve inclusive social life for people with disabilities (i.e., online and offline)
 - Present successful cases of interdisciplinary and cross-disciplinary AI and Inclusion research
 - Examine automation and AI in all its manifestations relevant to the Web and AI Inclusion
 - Consider the impact of COVID on technology adoption, risk perception and risk taking, change management, digital health, remote working and remote learning for people with disabilities.
