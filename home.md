@@ -47,9 +47,9 @@ feature_row:
 
 COVID-19 pandemic and government restriction have rapidly transformed people’s daily social activities into the new form of online society. For many people with disabilities, options like promoting remote working, online education, and online shopping have been needed for years. So what are the gaps in digital accessibility for those people with disabilities to access the Social Web resources? Moreover, in an online world blighted by barriers for those with physical, sensory and cognitive difficulties, what could be done with the power of AI technologies?
 
-With the rapidly transformation of the social actives from offline to online since the pandemic, many people with disabilities have encountered both opportunities and challenges in their daily social life. The power of the AI technologies such as natural language processing, speech recognition and text translation, computer vision and deep learning has been used to provide support for alternative forms of communication for people with disabilities.
+With the rapidly transformation of the social actives from offline to online since the pandemic, many people with disabilities have encountered both opportunities and challenges in their daily social life. The power of AI technologies, such as natural language processing, speech recognition and text translation, computer vision and deep learning has been used in many ways to provide support for disabled people including the provision of alternative forms of communication, innovative mobility aids and improvements in way finding.
 
-This workshop aims to invite both academic and industrial experts in the area of digital accessibility providing their research and views as to a range of issues they perceive as causing barriers for those with disabilities during or after the pandemic. AI experts will also be invited to contribute the research of possible solutions or strategies that could be used to plug the gaps in accessibility. The goal of this workshop includes:
+This workshop aims to invite both academic and industry experts in the area of digital accessibility providing their research and views as to a range of issues they perceive as causing barriers for those with disabilities during or after the pandemic. AI experts will also be invited to contribute the research of possible solutions or strategies that could be used to plug the gaps in accessibility. The goal of this workshop includes:
 
 - Understand how the pandemic has changed the social life for people with disabilities on the Web
 - Discuss the accessibility gaps and barriers
@@ -57,9 +57,12 @@ This workshop aims to invite both academic and industrial experts in the area of
 
 ## Call for Papers (CfPs) {#CfPs}
 
-Building on our theme for 2021, we especially welcome contributions that:
+In this workshop, we especially welcome contributions that:
 
-- Needs a list of topics for CfPs
+- Have a broader perspective on the Web Sciecne and AI that could better improve inclusive social life for people with disabilities (i.e., online and offline)
+- Present successful cases of interdisciplinary and cross-disciplinary AI and Inclusion research
+- Examine automation and AI in all its manifestations relevant to the Web and AI Inclusion
+- Consider the impact of COVID on technology adoption, risk perception and risk taking, change management, digital health, remote working and remote learning for people with disabilities.
 
 #### Important Dates
 
