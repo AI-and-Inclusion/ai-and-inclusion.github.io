@@ -64,7 +64,8 @@ Building on our theme for 2021, we especially welcome contributions that:
 #### Important Dates
 
 - April 23, 2021 - Workshop paper submission deadline
-- May 17, 2021 - Proceedings due
+- April 30, 2021 - Notification
+- May 10, 2021 - Camera-ready versions due
 - June 21-22, 2021 - Workshops and Tutorials.
 
 _\*All submission deadlines are midnight in the Anywhere on Earth (AoE) time zone._
@@ -87,19 +88,23 @@ For authors who wish to opt-out of publication proceedings, this option will be 
 
 ## Schedule {#schedule}
 
-The workshop is scheduled within half day either on 21 June or 22 June, 2021
+The workshop is scheduled within half day either on 21 June or 22 June, 2020. The schedule includes:
 
-The schedule includes:
+- Welcome (15 mins)
 
 - Keynote speaker (30 mins)
 
-- Paper Section (60 mins – 90 mins): accepted 4 - 6 papers and 15 mins for each paper
+- Paper Session A (45 mins)
 
-- Short break (15 mins)
+- Short break (5 mins)
+
+- Paper Session B (45 mins)
+
+- Long break (15 mins)
 
 - Panel Discussion (45 mins)
 
-- The panel session
+- Closing (10 mins)
 
 _The panel session will include invited experts in the field of digital accessibility and AI technologies. Each member of digital accessibility experts will pose accessibility gaps or barriers faced by those people with disabilities during or after pandemic and each member of AI experts will discuss the possible solutions or strategies that can overcome these gaps with leveraging the power of AI technologies._
 
