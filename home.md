@@ -11,6 +11,9 @@ header:
       url: "/#CfPs"
 excerpt: >
   <br />
+  <br />
+  <br />
+  <br />
   <strong>Overcoming accessibility gaps on the Social Web</strong>
   <br />
   <br />
@@ -18,7 +21,7 @@ excerpt: >
   <br />
   <br />
   June 21-22, 2021. Online.
-
+  <br />
 feature_row:
   - image_path: /assets/images/bio-photo.jpg
     alt: "customizable"
