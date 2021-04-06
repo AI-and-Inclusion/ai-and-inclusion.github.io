@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "AI and Inclusion Workshop"
+title: ""
 hidden: true
 layout: "splash"
 header:
@@ -12,6 +12,7 @@ header:
 excerpt: >
   <br />
   <br />
+  <h1> AI and Inclusion Workshop </h1>
   <br />
   <br />
   <strong>Overcoming accessibility gaps on the Social Web</strong>
