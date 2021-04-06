@@ -62,6 +62,8 @@ In this workshop, we especially welcome contributions that:
 - Examine automation and AI in all its manifestations relevant to the Web and AI Inclusion
 - Consider the impact of COVID on technology adoption, risk perception and risk taking, change management, digital health, remote working and remote learning for people with disabilities.
 
+Please upload your submissions via [Easychair](https://easychair.org/cfp/WebSci-21AAI)
+
 #### Important Dates
 
 - April 23, 2021 - Workshop paper submission deadline
@@ -72,8 +74,6 @@ In this workshop, we especially welcome contributions that:
 _\*All submission deadlines are midnight in the Anywhere on Earth (AoE) time zone._
 
 #### Format of the Submissions
-
-Please upload your submissions via [Easychair](https://easychair.org/cfp/WebSci-21AAI)
 
 The AI and Inclusion workshop, co-event with the 13th International ACM Conference on Web Science in 2021 ([WebSci’21](https://websci21.webscience.org/)) will run as an online conference, where authors will present their work remotely to online participants. There is two type of submission for all contributors:
 
