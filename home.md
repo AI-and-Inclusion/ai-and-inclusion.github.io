@@ -47,7 +47,7 @@ feature_row:
 
 COVID-19 pandemic and government restriction have rapidly transformed people’s daily social activities into the new form of online society. For many people with disabilities, options like promoting remote working, online education, and online shopping have been needed for years. So what are the gaps in digital accessibility for those people with disabilities to access the Social Web resources? Moreover, in an online world blighted by barriers for those with physical, sensory and cognitive difficulties, what could be done with the power of AI technologies?
 
-WThe rapid transformation of social activities from offline to online that has occurred since the beginning of the COVID-19 pandemic has meant that many disabled people have encountered both opportunities and challenges in their daily social life. This workshop aims to invite academic and industry experts in the area of digital accessibility and AI to offer research and their individual views as to a range of digital accessibility issues they perceive as causing barriers to access, alongside possible solutions and strategies powered by AI technologies to provide an inclusive social web. The goal of this workshop includes:
+The rapid transformation of social activities from offline to online that has occurred since the beginning of the COVID-19 pandemic has meant that many disabled people have encountered both opportunities and challenges in their daily social life. This workshop aims to invite academic and industry experts in the area of digital accessibility and AI to offer research and their individual views as to a range of digital accessibility issues they perceive as causing barriers to access, alongside possible solutions and strategies powered by AI technologies to provide an inclusive social web. The goal of this workshop includes:
 
 - Understand how the pandemic has changed the social life for people with disabilities on the Web
 - Discuss the accessibility gaps and barriers
@@ -73,13 +73,16 @@ _\*All submission deadlines are midnight in the Anywhere on Earth (AoE) time zon
 
 #### Format of the Submissions
 
-Please upload your submissions via TBC
+Please upload your submissions via [Easychair](https://easychair.org/cfp/WebSci-21AAI)
 
-The AI and Inclusion workshop, co-event with ACM Web Science Conference will run as an online conference, where authors will present their work remotely to online participants. There is one type of submission: All contributors will submit an abstract (max 400 words) followed by a full paper.
+The AI and Inclusion workshop, co-event with the 13th International ACM Conference on Web Science in 2021 ([WebSci’21](https://websci21.webscience.org/)) will run as an online conference, where authors will present their work remotely to online participants. There is two type of submission for all contributors:
+
+- Full page: up to 10 pages
+- Short paper: up to 5 pages
 
 The authors shall adopt the current [ACM SIG Conference proceedings template](https://www.acm.org/publications/taps/word-template-workflow) (acmart.cls).
 
-Please submit papers as Accessible PDF files using the ACM Submission template (single column). To create your PDF submission, you may use either Microsoft Word format or the ACM LaTeX template on Overleaf (ACM Conference Proceedings “Master” Template) using the “manuscript” option. A full description of the procedure can be found in this [link](https://www.acm.org/publications/taps/word-template-workflow). For the review process, manuscripts should be of approx. 9-13 pages length single column (inclusive of references, appendices, etc.).
+Please submit papers as Accessible PDF files using the ACM Submission template (single column). To create your PDF submission, you may use either [Microsoft Word format](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.acm.org%2Fbinaries%2Fcontent%2Fassets%2Fpublications%2Ftaps%2Facm_submission_template.docx&data=04%7C01%7Cskej1g16%40soton.ac.uk%7Cc40e125a25754c4a540808d8b6e254bf%7C4a5378f929f44d3ebe89669d03ada9d8%7C0%7C0%7C637460430480890946%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=eA4yR2BzKHaYlBk8FWjfAv8tdAwMrWuZplRKA%2BvzzNE%3D&reserved=0) or [the ACM LaTeX template](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.overleaf.com%2Fgallery%2Ftagged%2Facm-official%23.WOuOk2e1taQ&data=04%7C01%7Cskej1g16%40soton.ac.uk%7Cc40e125a25754c4a540808d8b6e254bf%7C4a5378f929f44d3ebe89669d03ada9d8%7C0%7C0%7C637460430480900907%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=HxqiQ6lUrhdudvz1hjKuIQVzbPxPv3nbdkMno7MkQJQ%3D&reserved=0) on Overleaf (ACM Conference Proceedings “Master” Template) using the “manuscript” option. A full description of the procedure can be found in this [link](https://www.acm.org/publications/taps/word-template-workflow). For the review process, manuscripts should be of approx. 9-13 pages length single column (inclusive of references, appendices, etc.).
 
 Please note that accepted papers will later be re-formatted with the sigconf style (double column) at camera-ready time. When changing to this style manuscripts may also need to be adjusted to the corresponding final page limit of between 6 and 10 pages (inclusive of references, appendices, etc.).
 
@@ -112,14 +115,9 @@ TBA
 
 TBA
 
-## Organization {#organization}
+## Organization Committee {#organization}
 
-#### Organizing Committee
-
-- Professor Mike Wald, Univeristy of Southampton, mw[AT]ecs.soton.ac.uk
-- Dr Chaohai Ding, Univeristy of Southampton, c.ding[AT]ecs.soton.ac.uk
-- E.A. Draffan, Univeristy of Southamptonm, ead[AT]ecs.soton.ac.uk
-
-#### Program Committee
-
-TBA
+- Mike Wald, School of Electronics and Computer Science, Univeristy of Southampton
+- Chaohai Ding, School of Electronics and Computer Science, Univeristy of Southampton
+- E.A. Draffan, School of Electronics and Computer Science, Univeristy of Southampton
+- Silvia Mirri, Department of Computer Science and Engineering DISI, University of Bologna
