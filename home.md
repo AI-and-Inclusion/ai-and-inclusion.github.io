@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "WebSci'21 AI and Inclusion (AAI) Workshop"
 hidden: true
 layout: "splash"
 header:
@@ -10,9 +10,7 @@ header:
     - label: "<i class='fas fa-file-upload'></i> Submit now"
       url: "/#CfPs"
 excerpt: >
-  <br />
-  <br />
-  <h1> AI and Inclusion Workshop </h1>
+
   <br />
   <br />
   <strong>Overcoming accessibility gaps on the Social Web</strong>
