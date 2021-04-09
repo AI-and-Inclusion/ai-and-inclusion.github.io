@@ -64,7 +64,7 @@ In this workshop, we especially welcome contributions that:
 - Examine automation and AI in all its manifestations relevant to the Web and AI Inclusion
 - Consider the impact of COVID on technology adoption, risk perception and risk taking, change management, digital health, remote working and remote learning for people with disabilities.
 
-Please upload your submissions via [Easychair](https://easychair.org/cfp/WebSci-21AAI)
+Please upload your submissions via [Easychair](https://easychair.org/conferences/?conf=websci21aai)
 
 #### Important Dates
 
