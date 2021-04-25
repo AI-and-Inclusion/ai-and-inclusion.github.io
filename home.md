@@ -19,7 +19,7 @@ excerpt: >
   The Workshop for the AI Inclusion, Web Accessibility and Web Science community @ <a href="https://websci21.webscience.org">WebSci'21</a>
   <br />
   <br />
-  June 21-22, 2021. Online.
+  June 22, 2021. Online.
   <br />
 feature_row:
   - image_path: /assets/images/bio-photo.jpg
@@ -68,9 +68,9 @@ Please upload your submissions via [Easychair](https://easychair.org/conferences
 
 #### Important Dates
 
-- April 23, 2021 - Workshop paper submission deadline
-- April 30, 2021 - Notification
-- May 10, 2021 - Camera-ready versions due
+- April 30, 2021 - Workshop paper submission deadline (extend)
+- May 10, 2021 - Notification
+- May 17, 2021 - Camera-ready versions due
 - June 21-22, 2021 - Workshops and Tutorials.
 
 _\*All submission deadlines are midnight in the Anywhere on Earth (AoE) time zone._
@@ -94,7 +94,7 @@ For authors who wish to opt-out of publication proceedings, this option will be 
 
 ## Schedule {#schedule}
 
-The workshop is scheduled within half day either on 21 June or 22 June, 2020. The schedule includes:
+This half day workshop is scheduled at 14:00 BST on 22 June, 2021. The schedule includes:
 
 - Welcome (15 mins)
 - Keynote speaker (30 mins)
