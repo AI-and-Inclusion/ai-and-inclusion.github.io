@@ -68,10 +68,10 @@ Please upload your submissions via [Easychair](https://easychair.org/conferences
 
 #### Important Dates
 
-- April 30, 2021 - Workshop paper submission deadline (extend)
+- May 7, 2021 - Workshop paper submission deadline (extend)
 - May 10, 2021 - Notification
 - May 17, 2021 - Camera-ready versions due
-- June 21-22, 2021 - Workshops and Tutorials.
+- June 22, 2021 - Workshops
 
 _\*All submission deadlines are midnight in the Anywhere on Earth (AoE) time zone._
 
