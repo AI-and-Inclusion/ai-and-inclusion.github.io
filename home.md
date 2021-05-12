@@ -66,6 +66,8 @@ In this workshop, we especially welcome contributions that:
 
 Please upload your submissions via [Easychair](https://easychair.org/conferences/?conf=websci21aai)
 
+Workshop registration via [WebSci'21 website](https://websci21.webscience.org/registration/)
+
 #### Important Dates
 
 - May 7, 2021 - Workshop paper submission deadline (extend)
