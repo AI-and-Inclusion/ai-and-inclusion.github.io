@@ -96,16 +96,7 @@ For authors who wish to opt-out of publication proceedings, this option will be 
 
 ## Schedule {#schedule}
 
-This half day workshop is scheduled at 14:00 BST on 22 June, 2021. The schedule includes:
-
-- Welcome (15 mins)
-- Keynote speaker (30 mins)
-- Paper Session A (45 mins)
-- Short break (5 mins)
-- Paper Session B (45 mins)
-- Long break (15 mins)
-- Panel Discussion (45 mins)
-- Closing (10 mins)
+This half day workshop will start at 14:00 BST on 22 June, 2021. The schedule includes:
 
 - 14:00- 14:15 Welcome to the AI and Inclusion Workshp
 - 14:15- 14:45 Keynote speaker: Using AI and Crowdsourcing to Simplify COVID-19 Info Worldwide. [John Rochford](https://johnrochford.com/?utm_source=product&utm_medium=email_sig&utm_campaign=edit_panel&utm_content=plaintext)
