@@ -103,7 +103,7 @@ This half day workshop will start at 14:00 BST on 22 June, 2021. The schedule in
 - 14:45 - 15:10 Full paper: Nipping Inaccessibility in the Bud: Opportunities and Challenges of AccessibleMedia Content Authoring.
 - 15:10 - 15:30 Short paper: BSL User’s Gaze patterns between Hands and Face during Online Communication.
 - 15:30-15:40 Break
-- 15:40- 16: 25 Invited Talk Session
+- 15:40- 16: 25 Invited Talks Session
 - 16:25-16:30 Short break
 - 16:30 - 17:00 Panel Discussion (30 mins) Discussion - AI specialists offering ideas to the disability specialists and FAQ.
 - 17:00-17:10 Closing
