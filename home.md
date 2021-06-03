@@ -70,9 +70,9 @@ Workshop registration via [WebSci'21 website](https://websci21.webscience.org/re
 
 #### Important Dates
 
-- May 7, 2021 - Workshop paper submission deadline (extend)
-- May 12, 2021 - Notification (extend)
-- May 17, 2021 - Camera-ready versions due
+- ~~May 7, 2021 - Workshop paper submission deadline (extend)~~
+- ~~May 12, 2021 - Notification (extend)~~
+- ~~May 17, 2021 - Camera-ready versions due~~
 - June 22, 2021 - Workshops
 
 _\*All submission deadlines are midnight in the Anywhere on Earth (AoE) time zone._
@@ -107,11 +107,28 @@ This half day workshop is scheduled at 14:00 BST on 22 June, 2021. The schedule 
 - Panel Discussion (45 mins)
 - Closing (10 mins)
 
+- 14:00- 14:15 Welcome to the AI and Inclusion Workshp
+- 14:15- 14:45 Keynote speaker: Using AI and Crowdsourcing to Simplify COVID-19 Info Worldwide. [John Rochford](https://johnrochford.com/?utm_source=product&utm_medium=email_sig&utm_campaign=edit_panel&utm_content=plaintext)
+- 14:45 - 15:10 Full paper: Nipping Inaccessibility in the Bud: Opportunities and Challenges of AccessibleMedia Content Authoring.
+- 15:10 - 15:30 Short paper: BSL User’s Gaze patterns between Hands and Face during Online Communication.
+- 15:30-15:40 Break
+- 15:40- 16: 25 Invited Talk Session
+- 16:25-16:30 Short break
+- 16:30 - 17:00 Panel Discussion (30 mins) Discussion - AI specialists offering ideas to the disability specialists and FAQ.
+- 17:00-17:10 Closing
+
 ## Speakers {#speakers}
 
 #### Keynote Speaker
 
-TBA
+[John Rochford](https://johnrochford.com/?utm_source=product&utm_medium=email_sig&utm_campaign=edit_panel&utm_content=plaintext) helps make the web usable by people with disabilities. He focuses on people with intellectual disabilities and/or autism. His research and develop artificial intelligence (AI) powered web text simplification on a mass scale. Easy-to-understand text is great for people with cognitive disabilities, non-native language speakers, people with low literacy, seniors, and really everyone.
+
+#### Invited Speakers
+
+- Dr Abi James (Accessibility Specialist)
+- John Gilligan (Computer Scientist and Accessibility Specialist)
+- Professor Christian Becker-Asano (AI and HCI Specialist)
+- Dr Nasser Siabi (Accessibility and Industry)
 
 #### Panel
 
