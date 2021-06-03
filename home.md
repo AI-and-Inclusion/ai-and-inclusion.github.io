@@ -105,7 +105,7 @@ This half day workshop will start at 14:00 BST on 22 June, 2021. The schedule in
 - 15:30-15:40 Break
 - 15:40- 16: 25 Invited Talks Session
 - 16:25-16:30 Short break
-- 16:30 - 17:00 Panel Discussion (30 mins) Discussion - AI specialists offering ideas to the disability specialists and FAQ.
+- 16:30 - 17:00 Panel Discussion
 - 17:00-17:10 Closing
 
 ## Speakers {#speakers}
