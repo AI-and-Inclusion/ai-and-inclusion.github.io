@@ -99,7 +99,7 @@ For authors who wish to opt-out of publication proceedings, this option will be 
 This half day workshop will start at 14:00 BST on 22 June, 2021. The schedule includes:
 
 - 14:00- 14:15 Welcome to the AI and Inclusion Workshp
-- 14:15- 14:45 Keynote speaker: Using AI and Crowdsourcing to Simplify COVID-19 Info Worldwide. [John Rochford](https://johnrochford.com/?utm_source=product&utm_medium=email_sig&utm_campaign=edit_panel&utm_content=plaintext)
+- 14:15- 14:45 Keynote: Using AI and Crowdsourcing to Simplify COVID-19 Info Worldwide.
 - 14:45 - 15:10 Full paper: Nipping Inaccessibility in the Bud: Opportunities and Challenges of AccessibleMedia Content Authoring.
 - 15:10 - 15:30 Short paper: BSL User’s Gaze patterns between Hands and Face during Online Communication.
 - 15:30-15:40 Break
@@ -112,7 +112,7 @@ This half day workshop will start at 14:00 BST on 22 June, 2021. The schedule in
 
 #### Keynote Speaker
 
-[John Rochford](https://johnrochford.com/?utm_source=product&utm_medium=email_sig&utm_campaign=edit_panel&utm_content=plaintext) helps make the web usable by people with disabilities. He focuses on people with intellectual disabilities and/or autism. His research and develop artificial intelligence (AI) powered web text simplification on a mass scale. Easy-to-understand text is great for people with cognitive disabilities, non-native language speakers, people with low literacy, seniors, and really everyone.
+Our keynote speaker [John Rochford](https://johnrochford.com/?utm_source=product&utm_medium=email_sig&utm_campaign=edit_panel&utm_content=plaintext) will present his research 'using AI and Crowdsourcing to Simplify COVID-19 Info Worldwide'. John Rochford is passion to help make the web usable by people with disabilities. He focuses on people with intellectual disabilities and/or autism. His research is to develop artificial intelligence (AI) powered web text simplification on a mass scale. Easy-to-understand text is great for people with cognitive disabilities, non-native language speakers, people with low literacy, seniors, and really everyone.
 
 #### Invited Speakers
 
