@@ -123,7 +123,7 @@ Our keynote speaker [John Rochford](https://johnrochford.com/?utm_source=product
 
 #### Panel
 
-The panel session will include invited experts in the field of digital accessibility and AI technologies. Each member of digital accessibility experts will pose accessibility gaps or barriers faced by those people with disabilities during or after pandemic and each member of AI experts will discuss the possible solutions or strategies that can overcome these gaps with leveraging the power of AI technologies. If you want to apply for the panel session, please contact c.ding[AT]ecs.soton.ac.uk.
+The panel session will include invited experts in the field of digital accessibility and AI technologies. Each member of digital accessibility experts will pose accessibility gaps or barriers faced by those people with disabilities during or after pandemic and each member of AI experts will discuss the possible solutions or strategies that can overcome these gaps with leveraging the power of AI technologies.
 
 ## Organization Committee {#organization}
 
