@@ -119,7 +119,8 @@ Our keynote speaker [John Rochford](https://johnrochford.com/?utm_source=product
 - Dr Abi James (Accessibility Specialist)
 - Dr John Gilligan (Computer Scientist and Accessibility Specialist)
 - Professor Christian Becker-Asano (AI and HCI Researcher)
-- Dr Nasser Siabi (Accessibility and Industry)
+- Dr Nasser Siabi (Accessibility and Industry, MicrolinkPC)
+- Jeremy Brassington (Accessibility and Industry, Note Taking Express)
 
 #### Panel
 
