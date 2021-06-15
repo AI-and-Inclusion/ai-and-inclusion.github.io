@@ -132,3 +132,7 @@ The panel session will include invited experts in the field of digital accessibi
 - Chaohai Ding, School of Electronics and Computer Science, Univeristy of Southampton
 - E.A. Draffan, School of Electronics and Computer Science, Univeristy of Southampton
 - Silvia Mirri, Department of Computer Science and Engineering DISI, University of Bologna
+
+## Acknowledgment
+
+The organising committee would like to acknowledge the funding received from Innovate UK in supporting their NFeedback project aimed at improving online learning outcomes.
