@@ -98,7 +98,7 @@ For authors who wish to opt-out of publication proceedings, this option will be 
 
 This half day workshop will start at 14:00 BST on 22 June, 2021. The schedule includes:
 
-- 14:00- 14:15 Welcome to the AI and Inclusion Workshp
+- 14:00- 14:15 Welcome to the AI and Inclusion Workshop
 - 14:15- 14:45 Keynote: Using AI and Crowdsourcing to Simplify COVID-19 Info Worldwide.
 - 14:45 - 15:10 Full paper: Nipping Inaccessibility in the Bud: Opportunities and Challenges of AccessibleMedia Content Authoring.
 - 15:10 - 15:30 Short paper: BSL User’s Gaze patterns between Hands and Face during Online Communication.
@@ -128,9 +128,9 @@ The panel session will include invited experts in the field of digital accessibi
 
 ## Organization Committee {#organization}
 
-- Mike Wald, School of Electronics and Computer Science, Univeristy of Southampton
-- Chaohai Ding, School of Electronics and Computer Science, Univeristy of Southampton
-- E.A. Draffan, School of Electronics and Computer Science, Univeristy of Southampton
+- Mike Wald, School of Electronics and Computer Science, University of Southampton
+- Chaohai Ding, School of Electronics and Computer Science, University of Southampton
+- E.A. Draffan, School of Electronics and Computer Science, University of Southampton
 - Silvia Mirri, Department of Computer Science and Engineering DISI, University of Bologna
 
 ## Acknowledgment
