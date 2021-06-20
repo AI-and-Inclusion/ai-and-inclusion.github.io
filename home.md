@@ -99,7 +99,7 @@ For authors who wish to opt-out of publication proceedings, this option will be 
 This half day workshop will start at 14:00 BST on 22 June, 2021. The schedule includes:
 
 - 14:00- 14:15 Welcome to the AI and Inclusion Workshop
-- 14:15- 14:45 Keynote: Using AI and Crowdsourcing to Simplify COVID-19 Info Worldwide.
+- 14:15- 14:45 Keynote: [Using AI and Crowdsourcing to Simplify COVID-19 Info Worldwide](https://ai-and-inclusion.github.io/assets/WebSci2021EasyCOVID-19.pptx).
 - 14:45 - 15:10 Full paper: Nipping Inaccessibility in the Bud: Opportunities and Challenges of AccessibleMedia Content Authoring.
 - 15:10 - 15:30 Short paper: BSL User’s Gaze patterns between Hands and Face during Online Communication.
 - 15:30-15:40 Break
