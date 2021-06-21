@@ -99,28 +99,23 @@ For authors who wish to opt-out of publication proceedings, this option will be 
 This half day workshop will start at 14:00 BST on 22 June, 2021. The schedule includes:
 
 - 14:00- 14:15 Welcome to the AI and Inclusion Workshop
-- 14:15- 14:45 Keynote: [Using AI and Crowdsourcing to Simplify COVID-19 Info Worldwide](https://ai-and-inclusion.github.io/assets/WebSci2021EasyCOVID-19.pptx).
+- 14:15- 14:45 Keynote by Dr John Rochford: [Using AI and Crowdsourcing to Simplify COVID-19 Info Worldwide](https://ai-and-inclusion.github.io/assets/WebSci2021EasyCOVID-19.pptx).
 - 14:45 - 15:10 Full paper: Nipping Inaccessibility in the Bud: Opportunities and Challenges of AccessibleMedia Content Authoring. Carlos Duarte, Letícia Seixas Pereira, André Santos, João Vicente, André Rodrigues, João Guerreiro, José Coelho and Tiago Guerreiro
 - 15:10 - 15:30 Short paper: BSL User’s Gaze patterns between Hands and Face during Online Communication. Nez Parr and Biao Zeng
 - 15:30-15:40 Break
 - 15:40- 16: 25 Invited Talks Session
+  - Dr Abi James (Accessibility Specialist) and Dr Nasser Siabi (Accessibility and Industry, MicrolinkPC)
+  - Professor Christian Becker-Asano (AI and HCI Researcher) and Dr John Gilligan (Computer Scientist and Accessibility Specialist)
 - 16:25-16:30 Short break
-- 16:30 - 17:00 Panel Discussion
+- 16:30 - 17:00 Panel Discussion chair by Jeremy Brassington (Accessibility and Industry, Note Taking Express)
 - 17:00-17:10 Closing
 
 ## Speakers {#speakers}
 
 #### Keynote Speaker
 
-Our keynote speaker [John Rochford](https://johnrochford.com/?utm_source=product&utm_medium=email_sig&utm_campaign=edit_panel&utm_content=plaintext) will present his research 'using AI and Crowdsourcing to Simplify COVID-19 Info Worldwide'. John Rochford is passion to help make the web usable by people with disabilities. He focuses on people with intellectual disabilities and/or autism. His research is to develop artificial intelligence (AI) powered web text simplification on a mass scale. Easy-to-understand text is great for people with cognitive disabilities, non-native language speakers, people with low literacy, seniors, and really everyone.
+Our keynote speaker [Dr John Rochford](https://johnrochford.com/?utm_source=product&utm_medium=email_sig&utm_campaign=edit_panel&utm_content=plaintext) will present his research 'using AI and Crowdsourcing to Simplify COVID-19 Info Worldwide'. John Rochford is passion to help make the web usable by people with disabilities. He focuses on people with intellectual disabilities and/or autism. His research is to develop artificial intelligence (AI) powered web text simplification on a mass scale. Easy-to-understand text is great for people with cognitive disabilities, non-native language speakers, people with low literacy, seniors, and really everyone.
 
-#### Invited Speakers
-
-- Dr Abi James (Accessibility Specialist)
-- Dr John Gilligan (Computer Scientist and Accessibility Specialist)
-- Professor Christian Becker-Asano (AI and HCI Researcher)
-- Dr Nasser Siabi (Accessibility and Industry, MicrolinkPC)
-- Jeremy Brassington (Accessibility and Industry, Note Taking Express)
 
 #### Panel
 
