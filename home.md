@@ -13,7 +13,7 @@ excerpt: >
 
   <br />
   <br />
-  <h2>Overcoming accessibility gaps on the Social Web</h2>
+  <strong>Overcoming accessibility gaps on the Social Web</strong>
   <br />
   <br />
   <br />
