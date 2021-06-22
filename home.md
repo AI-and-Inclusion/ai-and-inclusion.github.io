@@ -106,7 +106,7 @@ This half day workshop will start at 14:00 BST on 22 June, 2021. The schedule in
 - 15:40 - 16: 25 Invited Talks Session
   - Dr Abi James (Accessibility Specialist) and Dr Nasser Siabi (Accessibility and Industry, MicrolinkPC)
   - Professor Christian Becker-Asano (AI and HCI Researcher) and Dr John Gilligan (Computer Scientist and Accessibility Specialist)
-- 16:2 5- 16:30 Short break
+- 16:25 - 16:30 Break
 - 16:30 - 17:00 Panel Discussion chair by Jeremy Brassington (Accessibility and Industry, Note Taking Express)
 - 17:00 - 17:10 Closing
 
