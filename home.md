@@ -104,7 +104,7 @@ For authors who wish to opt-out of publication proceedings, this option will be 
 This half day workshop will start at 14:00 BST on 22 June, 2021. The schedule includes:
 
 - 14:00 - 14:15 Welcome to the AI and Inclusion Workshop
-- 14:15 - 14:45 Keynote by Dr John Rochford: Using AI and Crowdsourcing to Simplify COVID-19 Info Worldwide [slides](https://ai-and-inclusion.github.io/assets/WebSci2021EasyCOVID-19.pptx).
+- 14:15 - 14:45 Keynote by Dr John Rochford: Using AI and Crowdsourcing to Simplify COVID-19 Info Worldwide ([slides](https://ai-and-inclusion.github.io/assets/WebSci2021EasyCOVID-19.pptx)).
 - 14:45 - 15:10 Full paper: *[Nipping Inaccessibility in the Bud: Opportunities and Challenges of AccessibleMedia Content Authoring](https://dl.acm.org/doi/10.1145/3462741.3466644)*. Carlos Duarte, Letícia Seixas Pereira, André Santos, João Vicente, André Rodrigues, João Guerreiro, José Coelho and Tiago Guerreiro
 - 15:10 - 15:30 Short paper: *[BSL User’s Gaze patterns between Hands and Face during Online Communication](https://dl.acm.org/doi/10.1145/3462741.3466645)*. Nez Parr and Biao Zeng ([slides](https://ai-and-inclusion.github.io/assets/websci21ai_bzeng_np.pptx))
 - 15:30 - 15:40 Break
