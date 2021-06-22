@@ -16,10 +16,15 @@ excerpt: >
   <strong>Overcoming accessibility gaps on the Social Web</strong>
   <br />
   <br />
+  <br />
+  <br />
   The Workshop for the AI Inclusion, Web Accessibility and Web Science community @ <a href="https://websci21.webscience.org">WebSci'21</a>
   <br />
   <br />
+  <br />
   June 22, 2021. Online.
+  <br />
+  <br />
   <br />
 feature_row:
   - image_path: /assets/images/bio-photo.jpg
