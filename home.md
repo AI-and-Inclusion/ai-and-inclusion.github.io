@@ -13,13 +13,11 @@ excerpt: >
 
   <br />
   <br />
-  <strong>Overcoming accessibility gaps on the Social Web</strong>
-  <br />
+  <h2>Overcoming accessibility gaps on the Social Web</h2>
   <br />
   <br />
   <br />
   The Workshop for the AI Inclusion, Web Accessibility and Web Science community @ <a href="https://websci21.webscience.org">WebSci'21</a>
-  <br />
   <br />
   <br />
   June 22, 2021. Online.
